@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-15T19:09:40 IST" name="Default suite" finished-at="2024-02-15T19:10:01 IST" duration-ms="20610">
+    <groups>
+    </groups>
+    <test started-at="2024-02-15T19:09:40 IST" name="Default test" finished-at="2024-02-15T19:10:01 IST" duration-ms="20610">
+      <class name="Testcase.TestBaseClass">
+        <test-method is-config="true" signature="basicSetUp()[pri:0, instance:Testcase.TestBaseClass@765d7657]" started-at="2024-02-15T19:09:40 IST" name="basicSetUp" finished-at="2024-02-15T19:09:47 IST" duration-ms="7263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicSetUp -->
+        <test-method signature="login()[pri:1, instance:Testcase.TestBaseClass@765d7657]" started-at="2024-02-15T19:09:47 IST" name="login" finished-at="2024-02-15T19:09:52 IST" duration-ms="4473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Product()[pri:2, instance:Testcase.TestBaseClass@765d7657]" started-at="2024-02-15T19:09:52 IST" name="Product" finished-at="2024-02-15T19:09:55 IST" duration-ms="2613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product -->
+        <test-method is-config="true" signature="Logout()[pri:0, instance:Testcase.TestBaseClass@765d7657]" started-at="2024-02-15T19:09:55 IST" name="Logout" finished-at="2024-02-15T19:10:01 IST" duration-ms="6188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- Testcase.TestBaseClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
